@@ -1,0 +1,9 @@
+=== Results for: .\sample_files\TC2.txt ===
+COUNT: 1977
+MEAN: 250.7840161861406
+MEDIAN: 247.0
+MODE: 230.0
+SD: 144.17131868884059
+Variance: 20785.369132479238
+Total execution time 0.03599143028259277
+----------------------------------------

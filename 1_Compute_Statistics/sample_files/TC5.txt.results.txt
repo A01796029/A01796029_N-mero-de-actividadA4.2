@@ -1,0 +1,9 @@
+=== Results for: .\sample_files\TC5.txt ===
+COUNT: 307
+MEAN: 241.49511400651465
+MEDIAN: 241.0
+MODE: 393.0
+SD: 145.46484786056646
+Variance: 21160.021963097748
+Total execution time 0.03805208206176758
+----------------------------------------

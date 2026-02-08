@@ -1,0 +1,9 @@
+=== Results for: .\sample_files\TC1.txt ===
+COUNT: 400
+MEAN: 242.32
+MEDIAN: 239.5
+MODE: 393.0
+SD: 145.25810683056557
+Variance: 21099.917599999997
+Total execution time 0.030159473419189453
+----------------------------------------
