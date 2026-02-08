@@ -64,6 +64,7 @@ def main():
         output += "===================\n"
         for word, count in word_count.items():
             output += f"{word:10} - {count:4}\n"
+        output += f"Total execution time {time.time() - start_time}"
         print(output)
         save_to_file(output, args.path, f'{args.path}.results.txt')
     else:
